@@ -85,7 +85,7 @@ $Shortcut.IconLocation = "$pwd\Burp Icon.ico"
 $shortcut.Save()
 
 # Remove Additional files
-rm Burp Icon.ico
+rm "Burp Icon.ico"
 rm LICENSE
 rm README.md
 del -Recurse -Force .\.github\
