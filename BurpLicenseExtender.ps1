@@ -86,6 +86,8 @@ $shortcut.Save()
 
 # Remove Additional files
 rm Burp Icon.ico
+rm LICENSE
+rm README.md
 del -Recurse -Force .\.github\
 
 
@@ -93,4 +95,4 @@ del -Recurse -Force .\.github\
 echo "Reloading Environment Variables ...."
 $env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path","User") 
 echo "`n`nStarting Burp Suite Professional"
-cmd.exe /c '%cd%\Burp.bat'
+cmd.exe /c '$pwd\Burp.bat'
