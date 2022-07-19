@@ -75,7 +75,7 @@ $path | add-content -path Burp.bat
 echo "`nBurp.bat file is created"
 
 # Creating Burp Pro Shortcut
-wget "https://portswigger-cdn.net/burp/releases/Burp Icon.ico" -O "Burp Icon.ico"
+wget "https://raw.githubusercontent.com/iamyuthan/BurpLE/Master/Burp%20Icon.ico" -O "Burp Icon.ico"
 $SourceFilePath = "$pwd\Burp.bat"
 $ShortcutPath = "$Home\Desktop\Burp Suite Professional.lnk"
 $WScriptObj = New-Object -ComObject ("WScript.Shell")
