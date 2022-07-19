@@ -1,5 +1,6 @@
 # BurpLE
 Burp Suite Pro License Extender
+Receive Burp Suite Pro custom License with expiration on 2092.
 
 > Please note: Only run Burp Suite Professional from the shortcut on desktop which this tool creates. The license will not work otherwise. 
 
