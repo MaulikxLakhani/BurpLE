@@ -19,4 +19,4 @@ Receive Burp Suite Pro custom License with expiration on 2092.
 > Note: Burp Suite professional license will be under the name Y2K. You can contact to get it in a custom name.
 
 # Disclaimer
-**** ANY MALICIOUS USE OF THE CONTENTS FROM THIS REPO * * * * WILL NOT HOLD THE AUTHOR RESPONSIBLE, THE CONTENTS ARE SOLELY FOR * * * * EDUCATIONAL PURPOSE ****
+**** DO NOT TRY THIS REPO FOR ANY MALICIOUS USE CASES. THE CONTENTS ARE SOLELY FOR EDUCATIONAL PURPOSE. THE AUTHOR IS NOT RESPONSIBLE FOR ANY MALICIOUS USAGE OF THIS REPO ****
